@@ -10,3 +10,4 @@ Using Linux Terminal to apply knowledge in C language for college assignments.
 - Scaling Algorythm.
 
 _THIS WAS NOT MADE BY MYSELF ONLY, IT WAS A GROUP PROJECT._
+_Of course it's in Portuguese, 'cause that's my main language lol_
